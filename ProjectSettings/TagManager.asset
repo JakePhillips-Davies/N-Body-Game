@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Placed
+  - Large Engine Snap
+  - Medium Engine Snap
+  - Small Engine Snap
+  - Fuel Injector Snap
+  - Coolant Pipe Snap
+  - Fuel Pipe Snap
+  - Pipe Align Snap
+  - AstralBody
+  - TopLevelTransform
+  - StarSystem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - AstralBody
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Activator
+  - Snapping Point Pipe Input
+  - Snapping Point
+  - Rotate Handle
+  - 
+  - 
+  - Ship Exterior
+  - Ship Interior
+  - Player Dragging Checker
+  - Ship Dragging Collider
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
